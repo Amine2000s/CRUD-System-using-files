@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1676536289 source:/home/info/Bureau/amin_chabi_tp_BD_g04/bd_tp_fichier/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1677139425 source:/home/info/BD_tp_Chabi_amin_G4_l2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"extend.h"
+
+1677139410 source:/home/info/BD_tp_Chabi_amin_G4_l2/extend.c
+	"extend.h"
+
+1677139285 /home/info/BD_tp_Chabi_amin_G4_l2/extend.h
+	<stdio.h>
+	<stdlib.h>
+
